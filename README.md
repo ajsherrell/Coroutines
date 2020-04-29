@@ -5,3 +5,8 @@
 ### Components
 
 - Coroutines
+- Testing
+- ViewModel
+- Room 
+- Repository
+- Retrofit
